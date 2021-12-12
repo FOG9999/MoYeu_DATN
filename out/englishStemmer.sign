@@ -1,0 +1,3 @@
+englishStemmer.stem()
+englishStemmer.equals(java.lang.Object)
+englishStemmer.hashCode()

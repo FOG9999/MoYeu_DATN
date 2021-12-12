@@ -1,0 +1,5 @@
+Triangle.Triangle(int,int,int): 1
+Triangle.Triangle(int,int): 2
+Triangle.Triangle(int): 3
+Triangle.Triangle(): 4
+Triangle.checkTriangle(int,int,int[]): 5
